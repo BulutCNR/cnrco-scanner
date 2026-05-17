@@ -125,4 +125,4 @@ In the Netherlands, unauthorised computer access is a criminal offence under Art
 
 ## Built by
 
-CNRCO Web Application Security for Dutch SMBs
+CNRCO Web Application Security for SMBs
