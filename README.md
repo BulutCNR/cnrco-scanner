@@ -13,7 +13,9 @@
 ```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
+
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-blue.svg)](https://ollama.com)
 
 Point it at a domain you have authorisation to audit. The scanner fetches real HTTP headers and TLS data, feeds it to a local AI model, and produces a severity-ranked report mapped to the OWASP Top 10:2021 — straight in your terminal.
