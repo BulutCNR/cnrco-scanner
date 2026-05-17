@@ -50,7 +50,7 @@ ollama pull llama3.2
 ollama serve
 
 # 4. Clone this repo
-git clone https://github.com/YOUR_USERNAME/cnrco-scanner.git
+git clone https://github.com/BulutCNR/cnrco-scanner.git
 cd cnrco-scanner
 
 # 5. Install dependencies
@@ -125,4 +125,4 @@ In the Netherlands, unauthorised computer access is a criminal offence under Art
 
 ## Built by
 
-[CNRCO] Web Application Security for Dutch SMBs
+CNRCO Web Application Security for Dutch SMBs
