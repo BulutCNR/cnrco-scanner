@@ -1,0 +1,18 @@
+{
+  "name": "cnrco-scanner",
+  "version": "1.0.0",
+  "description": "CNRCO OWASP Top 10 Security Scanner — local AI-powered audit via Ollama",
+  "type": "module",
+  "main": "scan.js",
+  "bin": {
+    "cnrco-scan": "./scan.js"
+  },
+  "scripts": {
+    "scan": "node scan.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "ora": "^8.0.1"
+  }
+}
