@@ -1,6 +1,6 @@
 # CNRCO Security Scanner
 
-> Passive OWASP Top 10:2021 audit agent — powered by a local AI model via Ollama. No API keys. No accounts. No cost.
+> Passive OWASP Top 10:2021 audit agent — powered by a local AI model via Ollama. 
 
 ```
   ██████╗███╗   ██╗██████╗  ██████╗ ██████╗
@@ -9,7 +9,7 @@
  ██║     ██║╚██╗██║██╔══██╗██║     ██║   ██║
  ╚██████╗██║ ╚████║██║  ██║╚██████╗╚██████╔╝
   ╚═════╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
-  OWASP Top 10 Security Scanner  ·  v1.0  ·  cnrco.nl
+  OWASP Top 10 Security Scanner  ·  v1.0  · 
 ```
 
 Point it at a domain you have authorisation to audit. The scanner fetches real HTTP headers and TLS data, feeds it to a local AI model, and produces a severity-ranked report mapped to the OWASP Top 10:2021 — straight in your terminal.
@@ -125,4 +125,4 @@ In the Netherlands, unauthorised computer access is a criminal offence under Art
 
 ## Built by
 
-[CNRCO](https://cnrco.nl) — Web Application Security for Dutch SMBs
+[CNRCO] Web Application Security for Dutch SMBs
