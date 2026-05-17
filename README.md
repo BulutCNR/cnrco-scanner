@@ -1,6 +1,6 @@
 # CNRCO Security Scanner
 
-> Passive OWASP Top 10:2021 audit agent — powered by a local AI model via Ollama. 
+> Passive OWASP Top 10:2021 audit agent, powered by a local AI model via Ollama. 
 
 ```
   ██████╗███╗   ██╗██████╗  ██████╗ ██████╗
