@@ -9,7 +9,7 @@
  ██║     ██║╚██╗██║██╔══██╗██║     ██║   ██║
  ╚██████╗██║ ╚████║██║  ██║╚██████╗╚██████╔╝
   ╚═════╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
-  OWASP Top 10 Security Scanner  ·  v1.0  · 
+  OWASP Top 10 Security Scanner  ·  v1.0  
 ```
 
 Point it at a domain you have authorisation to audit. The scanner fetches real HTTP headers and TLS data, feeds it to a local AI model, and produces a severity-ranked report mapped to the OWASP Top 10:2021 — straight in your terminal.
